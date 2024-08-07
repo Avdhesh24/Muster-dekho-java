@@ -1,6 +1,6 @@
 public class NewSwitchCase {
         public static void main(String[] args) {
-            String day = "Sunday";
+            String day = "Mon";
 
             String result = switch (day) {
                 case "Saturday", "Sunday" -> "11am";
