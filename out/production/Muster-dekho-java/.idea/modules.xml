@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Muster-dekho-java.iml" filepath="$PROJECT_DIR$/.idea/Muster-dekho-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-method/java-method.iml" filepath="$PROJECT_DIR$/java-method/java-method.iml" />
     </modules>
   </component>
 </project>
